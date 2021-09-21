@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+/*
+Style our app according to the provided design!
+green color -> #5f9341
+*/
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-color: #B987E9;
+    border-style: solid;
+}
+
+button {
+    background-color: #B987E9;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 6px;
+    border: 1px solid #B987E9;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background-color: #fff;
+    color: #B987E9;
+    border: 1px solid #B987E9;
+}
+
+ul {
+    padding-left: 0;
+    margin-top: 20px;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+li a {
+    color: #796CFC;
+}
